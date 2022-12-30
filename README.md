@@ -1,5 +1,9 @@
+
 ### 2022
+- [Сертификат курса "Промышленная разработка на Python"](https://bigdatateam.org/certificates?cid=1O6rZr-Iio-FCrkF_dt2i434LY57ln3eM)
+- [Статья "Как составить резюме Junior-аналитику, чтобы на него обратили внимание: секреты от Х5 Tech"](https://habr.com/ru/company/X5Tech/blog/701442/)
 - [Статья "Кто такой дата-аналитик в X5 TECH"](https://habr.com/ru/company/X5Tech/blog/687554/)
+- [Статья "Обзор пакетов SciPy, Pyomo и CVXPY для решения задач условной оптимизации"](https://habr.com/ru/company/X5Tech/blog/708294/)
 - [Статья "Оптимизационные задачи в ритейле"](https://habr.com/ru/company/X5Tech/blog/685590/)
 
 ### 2019
