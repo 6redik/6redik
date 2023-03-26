@@ -1,3 +1,5 @@
+### 2023
+- [Сертификат курса "Симулятор управления продуктом на основе данных"](https://gopractice.ru/course/pm/certificate/bka5ji2f)
 
 ### 2022
 - [Сертификат курса "Промышленная разработка на Python"](https://bigdatateam.org/certificates?cid=1O6rZr-Iio-FCrkF_dt2i434LY57ln3eM)
