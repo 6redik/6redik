@@ -1,7 +1,7 @@
 ### 2023
 - [Сертификат курса "Симулятор управления продуктом на основе данных" от GoPractice](https://gopractice.ru/course/pm/certificate/bka5ji2f)
 - [Сертификат с отличием курса Data Engineer От Newprolab](https://github.com/6redik/6redik/blob/main/anton.denisov.newprolab_de.pdf)
-
+- [Статья "Как мы спасли от выгорания нанимающих аналитиков в X5 Tech"](https://habr.com/ru/companies/X5Tech/articles/739882/)
 ### 2022
 - [Сертификат курса "Промышленная разработка на Python"](https://bigdatateam.org/certificates?cid=1O6rZr-Iio-FCrkF_dt2i434LY57ln3eM)
 - [Статья "Как составить резюме Junior-аналитику, чтобы на него обратили внимание: секреты от Х5 Tech"](https://habr.com/ru/company/X5Tech/blog/701442/)
