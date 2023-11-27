@@ -13,6 +13,8 @@
 ### 2019
 - [Сертификат курса "Практический курс по большим данным"](https://bigdatateam.org/certificates?cid=18ZaAt_09MldaOZpBH53s7wDxXsrGf1uh)
 
+### 2018
+- [Статья "Пятёрочка подвели итоги чемпионата мира"](https://dzen.ru/media/x5group/piaterochka-podvela-itogi-chempionata-mira-5b573770055c9d00a952e744)
 
 ### 2016
 - [Курс повышения квалификации от PWC в объёме 16 часов по теме "Количественная оценка рисков с использованием специализированного программного обеспечения"](https://bigdatateam.org/certificates?cid=18ZaAt_09MldaOZpBH53s7wDxXsrGf1uh)
