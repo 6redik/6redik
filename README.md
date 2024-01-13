@@ -1,5 +1,5 @@
 ### 2023
-- [Статья "Многорукие бандиты в задаче ритейла"]((https://habr.com/ru/companies/X5Tech/articles/783390/)
+- [Статья "Многорукие бандиты в задаче ритейла"](https://habr.com/ru/companies/X5Tech/articles/783390/)
 - [Сертификат курса "Симулятор управления ростом продукта" от GoPractice](https://gopractice.io/course/growth/certificate/i98g3gdc)
 - [Сертификат курса "Симулятор управления продуктом на основе данных" от GoPractice](https://gopractice.ru/course/pm/certificate/bka5ji2f)
 - [Сертификат с отличием курса Data Engineer От Newprolab](https://github.com/6redik/6redik/blob/main/anton.denisov.newprolab_de.pdf)
